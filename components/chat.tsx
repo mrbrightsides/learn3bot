@@ -225,7 +225,7 @@ export function Chat({ modelId = DEFAULT_MODEL }: { modelId: string }) {
 
       <footer className="pb-8 text-center animate-fade-in" style={{ animationDelay: '200ms' }}>
         <p className="text-xs md:text-sm text-muted-foreground">
-          Ini merupakan versi khusus chat AI untuk Learn3
+          Versi khusus chat AI untuk Learn3 - 
           Web3 Education Platform.
           <br />
           Lihat di{" "}
