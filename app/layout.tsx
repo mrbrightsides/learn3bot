@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AI Gateway Demo",
-  description: "A demo of the Vercel AI Gateway with the AI SDK by Vercel",
+  title: "Learn3 AI Gateway",
+  description: "Kumpulan gateway AI web3",
 };
 
 export default function RootLayout({
