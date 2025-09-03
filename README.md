@@ -23,6 +23,12 @@ Berbasis **Next.js** dengan integrasi **Vercel AI Gateway** dan **AI SDK**.
 
 ---
 
+## 🖼️ Preview
+
+<img width="1933" height="970" alt="Screenshot 2025-09-04 031356" src="https://github.com/user-attachments/assets/5f498722-6f77-49ca-809d-23e04225a01d" />
+
+---
+
 ## 📦 Install & Run
 
 ```bash
