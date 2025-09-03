@@ -44,3 +44,9 @@ npm run dev
 
 
 Kontribusi terbuka! Silakan buka issue atau pull request untuk menambah fitur atau dataset, memperbaiki bug, atau sekadar berbagi dukungan
+
+---
+
+## 📜 Lisensi
+
+MIT License © 2025 — Bagian dari [Learn3 Education Platform](https://learn3.streamlit.app/)
